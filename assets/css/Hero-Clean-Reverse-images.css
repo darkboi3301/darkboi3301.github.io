@@ -1,0 +1,22 @@
+.fit-cover {
+  object-fit: cover;
+}
+
+h1 {
+  font-size: 9.9vw;
+}
+
+h2 {
+  font-size: 3.0vh;
+}
+
+p {
+  font-size: 2vmin;
+}
+
+body {
+  background-image: url("img_tree.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
